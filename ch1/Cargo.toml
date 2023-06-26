@@ -8,4 +8,7 @@ edition = "2021"
 [[bin]]
 name = "try1"
 path = "src/try.rs"
+
+
 [dependencies]
+rand = "0.8.5"
