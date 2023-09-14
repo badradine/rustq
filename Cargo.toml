@@ -6,4 +6,5 @@ members = [
 "homework1",
 "homework2",
  "homework3",
+ "calculator",
 ]
